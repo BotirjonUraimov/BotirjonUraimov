@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">* 🧑‍💻 Seould-based SWE<br>* 🛠️ Crafting web and mobile apps.<br>* 🌱 Into networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.</p>
+<p align="left">* 🧑‍💻 Seould-based Software Engineer<br>*  🌱 Into networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.</p>
 
 ###
 
