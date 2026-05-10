@@ -4,7 +4,7 @@ Senior Software Engineer & Engineering Manager.
 I build full-stack products that touch hardware — fuel dispensers, POS terminals, edge AI boxes — and self-host most of what I run.
 
 **Currently shipping**
-- [TTEx](https://ttex.co.kr) — fuel-station management platform, end to end (cloud, edge, mobile, Android POS)
+- [TTEx](https://ttex.co.kr) — fuel-station management platform, end to end (cloud, edge, mobile, POS)
 - [Smartdo](https://smartdo.uz) — Smart Retail POS SaaS for Uzbekistan, with an Uzbek-native AI assistant
 
 **Tools I reach for:** TypeScript · NestJS · React Native · Kotlin · Linux · Docker · WireGuard · Jetson + llama.cpp
