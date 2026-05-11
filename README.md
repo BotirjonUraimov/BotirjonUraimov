@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Botirjon</h2>
 
-Senior Software Engineer & Engineering Manager.
+Software Engineer & Engineering Manager.
 I build full-stack products that touch hardware — fuel dispensers, POS terminals, edge AI boxes — and self-host most of what I run.
 
 **Currently shipping**
